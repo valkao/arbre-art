@@ -6,11 +6,11 @@ Author: 一树Arbre
 categories: 展览
 tags: [展览]
 toc: true
-
 comments: false
---- 
 
-![园游会-海报.gif](https://s2.loli.net/2022/08/20/YBxNwtOic54sk2y.gif)
+---
+
+<img src="https://s2.loli.net/2022/08/20/YBxNwtOic54sk2y.gif" width="800px" />
 
 ## 展览前言
 
