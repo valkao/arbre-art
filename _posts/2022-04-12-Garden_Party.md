@@ -10,7 +10,7 @@ comments: false
 
 ---
 
-<img src="https://s2.loli.net/2022/08/20/YBxNwtOic54sk2y.gif" width="800px" />
+<img src="https://s2.loli.net/2022/08/20/YBxNwtOic54sk2y.gif" width="600px" />
 
 ## 展览前言
 
