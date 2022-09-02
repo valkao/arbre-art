@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 伴生——跨媒介群展
+title: 一树屋邨3期——伴生
 date: 2022-02-19
 Author: 一树Arbre
 categories: 展览
